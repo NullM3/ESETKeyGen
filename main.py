@@ -24,10 +24,7 @@ LOGO = f"""
 ██╔══╝  ╚════██║██╔══╝     ██║      ██╔═██╗ ██╔══╝    ╚██╔╝  ██║   ██║██╔══╝  ██║╚██╗██║   
 ███████╗███████║███████╗   ██║      ██║  ██╗███████╗   ██║   ╚██████╔╝███████╗██║ ╚████║   
 ╚══════╝╚══════╝╚══════╝   ╚═╝      ╚═╝  ╚═╝╚══════╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═══╝                                                                      
-                                                Project Version: {VERSION[0]}
-                                                Project Devs: rzc0d3r, AdityaGarg8, k0re,
-                                                              Fasjeit, alejanpa17, Ischunddu,
-                                                              soladify, AngryBonk, Xoncia
+                                                Project Version: {VERSION[0]}              
 """
 
 # -- Quick settings [for Developers to quickly change behavior without changing all files] --
